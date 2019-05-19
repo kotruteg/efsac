@@ -1,0 +1,8 @@
+{
+    "name": "ver-john-wick-3-pelicula-2019-completo-online-en-espanol-latino/1080p-hd",
+    "description": "((HD)) 1080p* — VER John Wick 3 (2019) online Película completa en español latino y subtitulado Repelis~HD!!",
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
+}
